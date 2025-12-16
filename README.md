@@ -159,9 +159,6 @@ Proyek ini dibuat untuk tujuan edukasi dan eksperimen. Silakan gunakan dan modif
 Kontribusi, saran, dan perbaikan bug sangat diterima! Silakan buat issue atau pull request.
 
 ## Video Demonstrasi
-
-.
-
----
+https://youtu.be/76r2p6lkb4U
 
 **Dibuat menggunakan Python, OpenCV, dan MediaPipe**
